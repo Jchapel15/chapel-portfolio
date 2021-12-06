@@ -1,0 +1,25 @@
+/*======Google Fonts=====*/
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Readex+Pro:wght@300&display=swap');
+/*======CSS Variables=====*/
+:root{
+    --header-height: 3rem;
+    --font-semi: 600;
+}
+/*======Colors=====*/
+:root{
+    --primary-color: #006400;
+    --secondary-color: #0e2431;
+}
+
+/*======Font=====*/
+:root{
+    --body-font: 'Readex Pro', sans-serif;
+    --big-font-size: 2rem;
+}
+/*======Margins=====*/
+
+/*======z index=====*/
+
+/*======BASE=====*/
+
+/*======Class CSS=====*/
